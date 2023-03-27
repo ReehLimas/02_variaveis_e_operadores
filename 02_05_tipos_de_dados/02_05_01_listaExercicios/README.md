@@ -1,4 +1,4 @@
-# Lista de Exercícios
+# Lista de Exercícios [01] - Variáveis e Operadores
 
 ### **<u>Problema 01: Diferença de idade</u>**
 Peça para o usuário informar o seu ano de nascimento e o ano de nascimento do irmão mais velho. Após, o programa deverá apresentar uma mensagem especificando a diferença de idade entre os irmãos.

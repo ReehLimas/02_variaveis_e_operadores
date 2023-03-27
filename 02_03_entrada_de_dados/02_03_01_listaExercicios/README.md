@@ -32,7 +32,7 @@ A mensagem que o programa deverá apresentar deverá ser o endereço completo, q
 - Rua _**NOME_DA_RUA**_, nº _**NÚMERO_DA_CASA**_, Bairro _**NOME_DO_BAIRRO**_, Cidade de _**NOME_DA_CIDADE(SIGLA_ESTADO)**_.
 
 ### **<u>Problema 05: Nome do Autor</u>**
-Peça para o usuário ifnormar o seu nome e o seu sobrenome. Após, o programa deverá mostrar os dados informados da seguinte forma:
+Peça para o usuário informar o seu nome e o seu sobrenome. Após, o programa deverá mostrar os dados informados da seguinte forma:
 - Nome do Autor: _**SOBRENOME**_, _**NOME**_.
 
 ## ***Let's work!***
