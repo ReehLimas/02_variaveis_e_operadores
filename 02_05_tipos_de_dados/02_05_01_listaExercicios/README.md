@@ -22,7 +22,7 @@ Peça para o usuário informar o salário que recebe mensalmente. Também peça 
 Peça para o usuário informar qual foi o preço do jantar. Calcule 10% da gorjeta e apresente o preço total que deverá pagar para o restaurante e apresente o resultado.
 
 ### **<u>Problema 08: Celsius para Fahrenheit</u>**
-Peça para o usuário informar uma temperatura em graus Celsius. Converta e apresente a temperatura em graus Fahrenheit
+Peça para o usuário informar uma temperatura em graus Celsius. Converta e apresente a temperatura em graus Fahrenheit.
 
 ### **<u>Problema 09: Fahrenheit para Celsius</u>**
 Peça para o usuário informar uma temperatura em Fahrenheit. Converta e apresente a temperatura em graus Celsius.
