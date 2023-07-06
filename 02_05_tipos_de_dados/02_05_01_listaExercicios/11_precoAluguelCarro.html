@@ -6,11 +6,12 @@
     */
 
     //ENTRADA
-
+    const dias = Number(prompt(`Informe a quantidade de dias que você alugou:`));
+    const km = Number(prompt(`Informe a quantidade de quilômetros rodados:`).replace(",","."));
     
     //PROCESSAMENTO
-
+    const resultado = (dias * 60) / (km * 0.15);
     
     //SAÍDA
-
+    alert(`Total da viagem R$${resultado}.`);
 </script>

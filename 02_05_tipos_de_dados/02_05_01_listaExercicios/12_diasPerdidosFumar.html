@@ -6,11 +6,11 @@
     */
 
     //ENTRADA
-
-    
+    const dias = Number(prompt(`Informe a quantidade de cigarros fumados por dia: `).replace(",","."));
+    const anos = Number(prompt(`Informe a quantidade de anos que fuma`).replace(",","."));
     //PROCESSAMENTO
-
-    
+    const resultado = (dias * anos / 10)
     //SAÍDA
+    alert(`Você perdeu ${resultado} dias de vida.`);
 
 </script>
