@@ -7,11 +7,10 @@
     // IR: 11 % do salário bruto
 
     //ENTRADA
-    
-    
+    const horas = Number(prompt(`Informe suas horas trabalhadas por dia:`).trim().replace(",","."));
+    const salarioHoras = Number(prompt(`Informe quantos reais recebe por hora trabalhada:`).trim().replace(",","."));
     //PROCESSAMENTO
-
-    
+    const resultado = (horas * salarioHoras) * ( 3/100 + 11/100);
     //SAÍDA
-
+    alert(`Seu salário total ficará ${resultado} reais. `);
 </script>
